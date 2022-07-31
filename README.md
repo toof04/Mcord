@@ -1,6 +1,8 @@
 # Mcord
 Health Record Management + Physician appointment website
+
 Video : https://youtu.be/XY5Bmy-pbrM
+
 Screenshots :
 
 <img width="794" alt="image" src="https://user-images.githubusercontent.com/96460163/182034058-866c767f-4f62-4a47-b203-8c5eb7e2a60c.png">
